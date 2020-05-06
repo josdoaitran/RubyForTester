@@ -24,4 +24,4 @@ i = [1,2,3,4,5]
 i.map {|x| x+1}
 ```
 
-
+https://www.w3resource.com/ruby-exercises/basic/index.php
